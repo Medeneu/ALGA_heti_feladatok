@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace OE.ALGA.Adatszerkezetek
 {
-    internal interface IVegrehathato
+    internal class _02_FuncionalisParadigma
     {
-        public void Vegrehajtas();
     }
 }
